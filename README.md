@@ -1,5 +1,5 @@
 <p align="center">
-I'm a 1st year Computer Science college student. Currently pursuing an A level in Computer Science. Discord bot developer and machine learning enthusiast.
+I'm a 1st year Computer Science college student. Currently pursuing an A level in Computer Science. 
 </p>   
 
 
