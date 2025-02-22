@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hello, I'm Mathusan.<br>⭐ I'm an aspiring Software Engineer based in London, United Kingdom.<br>🎓 First Year Computer Science Undergraduate at Cardiff University.<br>
+Node.js developer and Computer Science Student at Cardiff University
 
 
 ## 🌐 Socials:
